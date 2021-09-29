@@ -1,0 +1,127 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20pt;
+}
+
+main{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+.webTitle{
+    color: white ;
+    padding-top:45px;
+    padding-left: 60px;
+    font-size: 50px;
+    margin-left: 60px;
+    margin: 0px;
+}
+
+.banner{
+    background-color: #202020;
+    width: 100.7%;
+    margin-left: -8px;
+    margin-top: -35px;
+    height: 130px;
+}
+
+.buttons{
+    display: inline-flex;
+    flex-wrap: wrap;
+    float: right;
+    margin-top:-135px;
+    margin-right: 150px;
+    width: 60%;
+}
+
+.buttons > button{
+    margin: 5%;
+}
+
+.button1{
+    width: 140px;
+    height: 60px;
+    color: white;
+    background-color: #202020;
+    border: none;
+    border-radius: 10px;
+    border: 2px solid white;
+    font-size: 24px;
+    transition: ease-out 0.5s;
+    box-shadow: 3px 3px 10px black;
+}
+
+
+.button1:hover{
+    background-color: white;
+    color: black;
+}
+
+.AboutAccessibility{
+    margin-right: 45%;
+    line-height: 1.6;
+}
+
+.subTitle{
+    margin-top: 150px;
+}
+
+.aboutTextSize{
+    margin-left: 35%;
+    line-height: 1.6;
+}
+
+.aboutColors{
+    margin-right: 45%;
+    line-height: 1.6;
+}
+
+.aboutContrast{
+    margin-left: 35%;
+    line-height: 1.6;
+}
+
+.aboutAltTags{
+    line-height: 1.6;
+    margin-right: 20%;
+}
+
+.picContainer{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 30%;
+}
+
+.pic1{
+    width: 400px;
+    height: auto;
+}
+
+.pic2{
+    width: 400px;
+    height: auto;
+}
+
+.aboutCode{
+    line-height: 1.6;
+    margin-left: 30%;
+    margin-bottom: 150px;
+}
+
+.footer{
+    background-color: #202020;
+    color: white;
+    height: 100px;
+    margin-bottom: -10px;
+    margin-left: -9px;
+    margin-right: -10px;
+    text-align: center;
+    font-size: 30pt;
+}
+
+.endtext{
+    padding-top: 25px;
+}
+
