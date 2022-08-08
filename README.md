@@ -1,4 +1,4 @@
-<h1>Module3-Accessibility</h1>
+<h1>Accessibility</h1>
 
 <h2>Live website: https://jakubm1999.github.io/Module3-Accessibility/index.html</h2>
 <h2>Figma Plugins demonstartion link:https://www.figma.com/file/RvpdbiENsZUC4G0Lwf68jY/Untitled?node-id=0%3A1</h2>
